@@ -15,7 +15,7 @@ Installation
 --
 
 * Extract the icon package and move it to ~/.local/share/icons 
-You can now find the theme under Settings --> Desktop --> Appearance ---> Icons & Tollkit theming. There's a known bug that the icons doesn't shift to a newly installed icon theme. You have to logout and login before the change appears.
+You can now find the theme under Settings --> Desktop --> Appearance ---> Icons & Toolkit theming. There's a known bug that the icons doesn't shift to a newly installed icon theme. You have to logout and login before the change appears.
 
 
 * The color file theme you have to import it under Settings --> Desktop --> Appearance. Click the Import button.
