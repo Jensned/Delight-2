@@ -11,3 +11,15 @@ Screenshots
 
 <img width="1920" height="1080" alt="Screenshot_3" src="https://github.com/user-attachments/assets/456a1261-87cc-49d8-9bab-93ce371786e0" />
 
+Installation
+--
+
+Extract the icon package and move it to ~/.local/share/icons
+
+The color file theme you have to import it under Settings --> Appearance
+
+<img width="1057" height="668" alt="Screenshot_2025-09-26_13-03-10" src="https://github.com/user-attachments/assets/885fc438-fecd-494a-b752-fc549c2dfb24" />
+
+The Wallpaper package needs to be extracted, then you can import them under Settings --> Wallpaper
+
+
