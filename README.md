@@ -1,5 +1,13 @@
 # Delight-2
 Delight 2 is full theme for Cosmic DE with icon theme, wallpapers and color file.
 
+Screenshots
+--
 
+<img width="1920" height="1080" alt="Screenshot_1" src="https://github.com/user-attachments/assets/3248ec76-34b4-4ca9-b21a-f36d3b39421d" />
+
+
+<img width="1920" height="1080" alt="Screenshot_2" src="https://github.com/user-attachments/assets/84547f0c-cd2a-413b-a2fc-f5853cf1f023" />
+
+<img width="1920" height="1080" alt="Screenshot_3" src="https://github.com/user-attachments/assets/456a1261-87cc-49d8-9bab-93ce371786e0" />
 
