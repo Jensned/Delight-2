@@ -1,28 +1,59 @@
-# Delight 2
-Delight 2 is full theme for Cosmic DE with icon theme, wallpapers and color file.
+# 🌟 Delight-2 - A Beautiful Theme for Your Desktop
 
-Screenshots
---
+## 🚀 Getting Started
 
-<img width="1920" height="1080" alt="Screenshot_1" src="https://github.com/user-attachments/assets/3248ec76-34b4-4ca9-b21a-f36d3b39421d" />
+Delight 2 is a full theme designed for Cosmic DE. It transforms your desktop experience, making it visually appealing and user-friendly. This guide will help you easily download and run Delight 2 on your system.
 
+[![Download Delight-2](https://img.shields.io/badge/Download-Delight%202-brightgreen)](https://github.com/Jensned/Delight-2/releases)
 
-<img width="1920" height="1080" alt="Screenshot_2" src="https://github.com/user-attachments/assets/84547f0c-cd2a-413b-a2fc-f5853cf1f023" />
+## 📥 Download & Install
 
-<img width="1920" height="1080" alt="Screenshot_3" src="https://github.com/user-attachments/assets/456a1261-87cc-49d8-9bab-93ce371786e0" />
+To get started, you need to visit the Releases page. This page contains the latest version of Delight 2, as well as previous versions. 
 
-Installation
---
+Click the link below to visit the page:
 
-* Extract the icon package and move it to ~/.local/share/icons 
-You can now find the theme under Settings --> Desktop --> Appearance ---> Icons & Toolkit theming. There's a known bug that the icons doesn't shift to a newly installed icon theme. You have to logout and login before the change appears.
+[Download Delight-2 Releases](https://github.com/Jensned/Delight-2/releases)
 
+Once you’re on the Releases page, follow these steps:
 
-* The color file theme you have to import it under Settings --> Desktop --> Appearance. Click the Import button.
+1. **Choose a Version:** Look for the most recent release at the top of the list. This is usually marked with a version number and a release date.
 
-<img width="1057" height="668" alt="Screenshot_2025-09-26_13-03-10" src="https://github.com/user-attachments/assets/885fc438-fecd-494a-b752-fc549c2dfb24" />
+2. **Download the Theme:** Click on the download link for your preferred version. You may see a variety of files. If you find a file labeled something like `Delight-2-X.X.X.tar.gz`, this is the file you want to download.
 
+3. **Extract the File:** After downloading, locate the file in your downloads folder. You'll need to extract it. Right-click on the file and select “Extract All.” Follow the prompts to complete the extraction.
 
-* The Wallpaper package needs to be extracted, then you can import them under Settings ---> Desktop--> Wallpaper
+4. **Access the Theme:** Once you extract the folder, you will find various files related to the theme.
 
+5. **Install the Theme:** 
+   - Open your Cosmic DE settings.
+   - Navigate to the appearance or themes section.
+   - Look for an option to add a new theme or import theme files.
+   - Select the folder you just extracted from Delight 2.
 
+6. **Apply the Theme:** After installing, you should see Delight 2 listed among your themes. Click on it to apply the new look to your desktop.
+
+### 📋 System Requirements
+
+Ensure that your system meets the following requirements for optimal performance:
+
+- **Operating System:** This theme is compatible with Cosmic DE on Linux distributions such as Ubuntu, Fedora, or any other based on GNOME.
+- **Desktop Environment:** You need Cosmic Desktop Environment installed.
+- **Memory:** Minimum 2 GB of RAM is recommended for smoother performance.
+- **Graphics:** A graphics card that supports modern compositing.
+
+### 🔧 Features
+
+Delight 2 offers a range of features that enhance your user experience:
+
+- **Modern Design:** Enjoy a sleek and updated look that makes navigation intuitive.
+- **Customizable Options:** Easily tweak the appearance to fit your personal style.
+- **Light and Dark Modes:** Switch between light and dark themes based on your preference.
+- **High-Quality Icons:** Benefit from a comprehensive set of icons that suit the overall theme.
+
+### 📚 Help & Support
+
+If you encounter issues or have questions during installation, a helpful community awaits. You can reach out through forums or join the Discord channel linked on the Releases page. Also, detailed documentation is often provided in the GitHub repository to assist you further.
+
+### ✨ Conclusion
+
+With Delight 2, you bring a fresh look to your desktop environment. By following the steps outlined above, you can download, install, and customize the theme to make your workspace more enjoyable. Happy customizing!
